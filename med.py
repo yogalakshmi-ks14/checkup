@@ -1,7 +1,7 @@
-x=input("Enter x value:")
+x=int (input("Enter x value:"))
 print("Entered:", x)
 
-y=input("Enter y value:")
+y=int (input("Enter y value:"))
 print("Entered:", y)
 
 z=(x+y)
